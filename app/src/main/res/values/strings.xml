@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Samuel Beckett Quiz</string>
+
+    <!--String for name CheckBox xml-->
+    <string name="your_name">Your name</string>
+
+    <!--String for question 1 xml-->
+    <string name="question_1">1. When was he awarded the Nobel Prize in Literature?</string>
+    <!--String for question 2 xml-->
+    <string name="question_2">2. What was his middle name?</string>
+
+    <!--String for question 3 xml-->
+    <string name="question_3">3. What was the name of his wife?</string>
+    <!--String for question 5 xml-->
+    <string name="question_4">4. He did not write:</string>
+    <!--String for question 5 xml-->
+    <string name="question_5">5. In which sport Beckett excelled?</string>
+    <!--String for question 6 xml-->
+    <string name="question_6">6. He died at the age of:</string>
+    <!--String for question 7 xml-->
+    <string name="question_7">7. In which country did he die?</string>
+    <!--String for question 8 xml-->
+    <string name="question_8">8. In Film (1965) the main character is played by</string>
+    <!--String for question 9 xml-->
+    <string name="question_9">9. His famous dramas are:</string>
+    <!--String for question 10 xml-->
+    <string name="question_10">10. Beckett was born is London.</string>
+
+    <!--Answer to question 1 -->
+    <string name="one_q1">1989</string>
+    <!--Answer to question 1 -->
+    <string name="two_q1">1933</string>
+    <!--Answer to question 1 -->
+    <string name="three_q1">1999</string>
+    <!--Answer to question 1 -->
+    <string name="four_q1">1969</string>
+
+    <!--Answer to question 2 -->
+    <string name="bernie_q2">Bernie</string>
+    <!--Answer to question 2 -->
+    <string name="barley_q2">Barley</string>
+    <!--Answer to question 2 -->
+    <string name="barclay_q2">Barclay</string>
+    <!--Answer to question 2 -->
+    <string name="bob_q2">Bob</string>
+
+
+    <!--Answer to question 3 -->
+    <string name="suzanne_q3">Suzanne</string>
+    <!--Answer to question 3 -->
+    <string name="sally_q3">Sally</string>
+    <!--Answer to question 3 -->
+    <string name="samantha_q3">Samantha</string>
+    <!--Answer to question 3 -->
+    <string name="sandra_q3">Sandra</string>
+
+    <!--Answer to question 4 -->
+    <string name="cook_q4">cookbooks</string>
+    <!--Answer to question 4 -->
+    <string name="novel_q4">novels</string>
+    <!--Answer to question 4 -->
+    <string name="poem_q4">poems</string>
+    <!--Answer to question 4 -->
+    <string name="drama_q4">dramas</string>
+    <!--Answer to question 4 -->
+    <string name="pre_q4">prescriptions</string>
+
+    <!--Answer to question 5 -->
+    <string name="rugby_q5">rugby</string>
+    <!--Answer to question 5 -->
+    <string name="swimming_q5">swimming</string>
+    <!--Answer to question 5 -->
+    <string name="cricket_q5">cricket</string>
+    <!--Answer to question 5 -->
+    <string name="chess_q5">chess</string>
+    <!--Answer to question 5 -->
+    <string name="running_q5">running</string>
+
+    <!--Answer to question 6 -->
+    <string name="right_q6">83</string>
+    <!--Answer to question 4 -->
+    <string name="wrong1_q6">33</string>
+    <!--Answer to question 4 -->
+    <string name="wrong2_q6">42</string>
+    <!--Answer to question 4 -->
+    <string name="wrong3_q6">57</string>
+
+
+
+    <!--Answer to question 7 -->
+    <string name="usa_q7">USA</string>
+    <!--Answer to question 4 -->
+    <string name="hungary_q7">Hungary</string>
+    <!--Answer to question 4 -->
+    <string name="uni_q7">United Kingdom</string>
+    <!--Answer to question 4 -->
+    <string name="france_q7">France</string>
+
+
+
+    <!--Answer to question 8 -->
+    <string name="bruce_q8">Bruce Willis</string>
+    <!--Answer to question 4 -->
+    <string name="buster_q8">Buster Keaton</string>
+    <!--Answer to question 4 -->
+    <string name="charlie_q8">Charlie Chaplin</string>
+    <!--Answer to question 4 -->
+    <string name="jeremy_q8">Jeremy Irons</string>
+
+
+    <!--Answer to question 9 Hungary checkBox-->
+    <string name="godot_q9">Waiting for Godot</string>
+    <!--Answer to question 9 Russia checkBox-->
+    <string name="hamlet_q9">Hamlet</string>
+    <!--Answer to question 9 Australia checkBox-->
+    <string name="caretaker_q9">The Caretaker</string>
+    <!--Answer to question 9 Monaco checkBox-->
+    <string name="endgame_q9">Endgame</string>
+
+    <!--Answer to question 10 yes radioButton-->
+    <string name="yes_q10">Yes</string>
+    <!--Answer to question 10 no radioButton-->
+    <string name="no_q10">No</string>
+
+    <!--Submit answers button-->
+    <string name="submit_answers">Submit answers</string>
+
+</resources>
