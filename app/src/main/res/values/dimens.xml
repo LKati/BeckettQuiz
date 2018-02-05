@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="font_size_for_question">14sp</dimen>
+    <dimen name="font_size_for_checkbox">14sp</dimen>
+    <dimen name="font_size_for_radio">14sp</dimen>
+    <dimen name="space_edit_text">16dp</dimen>
+    <dimen name="space_bottom">8dp</dimen>
+    <dimen name="space_left">24dp</dimen>
+    <dimen name="space_margin">16dp</dimen>
+    <dimen name="space_checkbox_radio">16dp</dimen>
+
+</resources>

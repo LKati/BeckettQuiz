@@ -10,6 +10,7 @@
         android:layout_margin="@dimen/space_margin"
         android:orientation="vertical">
 
+
         <EditText
             android:id="@+id/your_name_view"
             android:layout_width="match_parent"
@@ -35,7 +36,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
 
             <RadioButton
                 android:id="@+id/one_q1"
